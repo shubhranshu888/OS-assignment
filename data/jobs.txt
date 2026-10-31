@@ -1,0 +1,9 @@
+# CampusCompute Shared Lab Jobs Specification
+# Format: <JobID> <ArrivalTime> <BurstTime> <Priority>
+# Note: Lower priority integer means higher priority (1 is highest).
+# Tie-breaking rule: Arrival time first, then input order in file.
+J1 0 6 3
+J2 1 4 1
+J3 2 8 4
+J4 3 5 2
+J5 4 2 5

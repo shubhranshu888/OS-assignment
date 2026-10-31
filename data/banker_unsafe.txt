@@ -1,0 +1,19 @@
+# CampusCompute Banker's Algorithm - Unsafe State Configuration
+# Dimensions: <processes> <resources>
+5 3
+# Resource Types
+A B C
+# Allocation Matrix (Rows: P0 to P4)
+0 1 0
+2 0 0
+3 0 2
+2 1 1
+0 0 2
+# Maximum Matrix (Rows: P0 to P4)
+7 5 3
+3 2 2
+9 0 2
+2 2 2
+4 3 3
+# Available Vector (insufficient instances to safely satisfy remaining needs)
+0 0 0

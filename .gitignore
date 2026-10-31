@@ -1,0 +1,21 @@
+# Build artifacts
+build/
+campuscompute
+*.o
+*.a
+*.so
+*.exe
+
+# Logs and runtime outputs
+logs/
+*.log
+
+# Archives
+*.zip
+*.tar.gz
+
+# System / Editor files
+.vscode/
+.idea/
+*.swp
+*~
