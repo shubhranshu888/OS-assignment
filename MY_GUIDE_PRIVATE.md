@@ -9,7 +9,7 @@
 
 ## Table of Contents
 1. [Assignment & Coursework Context](#1-assignment--coursework-context)
-2. [Setting Up on Your Ubuntu Virtual Machine](#2-setting-up-on-your-ubuntu-virtual-machine)
+2. [Zero-Local-Footprint & Disposable VM Workflow](#2-zero-local-footprint--disposable-vm-workflow)
 3. [Configuring Your Terminal & SRN Prompt (MANDATORY)](#3-configuring-your-terminal--srn-prompt-mandatory)
 4. [File-by-File & Function-by-Function Architecture](#4-file-by-file--function-by-function-architecture)
 5. [Complete Screenshot Execution Script (S01 to S24)](#5-complete-screenshot-execution-script-s01-to-s24)
